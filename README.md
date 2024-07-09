@@ -1,20 +1,25 @@
 <p align="center">
-  </br>
+
+<img src="https://github.com/ydunsscotus/ProjectStir-2_Public/assets/160445941/de416e22-717a-48d4-bdd2-ab80db1c87a7" width="850" alt="ProjectStir2 Gameplay">
+
 </p>
 
+    
+
+
+
+
 ## 🔴About
-**ProjectStir [Pre-Alpha]** is a driving simulation application meticulously crafted to assess driving skills performance using a game-centric approach. Within this application, drivers or users are tasked with navigating a cityscape, all the while gathering vital checkpoints. The performance evaluation revolves around quantifying the number of **checkpoints** successfully acquired within specific time constraints. This performance assessment also encompasses a metric denoted as **damage**, which quantifies the extent of vehicular wear and tear sustained throughout the driving experience.
+**ProjectStir 2** is a driving simulation application meticulously crafted to assess driving skills performance using a game-centric approach. Within this application, drivers or users are tasked with racing againts AI. The performance evaluation revolves around the time and position that the users finish with.
 
 The game is set against an urban backdrop in Asia, replete with one-way streets capable of accommodating only one vehicle at any given moment. Enhanced user performance, characterized by a greater accumulation of checkpoints and minimal vehicle damage, leads to superior overall outcomes. Project-Stir can be operated using various input devices, including a keyboard, joystick, or steering wheel controller.
 
-Within this gaming environment, an user data collection process is employed, employing a Leaderboard-based, game-oriented methodology. The feature for gathering performance data is initiated through data submission following a player's successful game completion. The variables collected encompass **Player Nickname**, **Checkpoint**, and **Damage** data. This performance data is seamlessly integrated with Looker Studio, a public-accessible data visualization tool. This data collection methodology is easily accessible for entertainment purposes or, if necessary, for research applications. Access to this data is available via https://lookerstudio.google.com/reporting/b00ab0ae-0caf-4b2b-855f-a3c7b88dc9f7
-
-
+Within this gaming environment, an user data collection process is employed, employing a Leaderboard-based, game-oriented methodology. The feature for gathering performance data is automatically inserted when the race is finish. The variables collected encompass **Player Nickname**, **Time**, and **Position** data.
 
 
 ## 👤Developer
-- Steven Putra Adicandra - Unity Programmer Level Mechanic Designer
-- Duns Scotus Aerotri T - Unity Programmer Level Graphic Designer
+- Steven Putra Adicandra - Unity Programmer Level Designer
+- Duns Scotus Aerotri T - Unity Graphic Level Designer
 - Muhamad Fajar - Unity Technical Artist
 - Thomas Galih Satria - Visual Designer
 - Galih Dea - Game Designer
