@@ -11,22 +11,10 @@ Within this gaming environment, an user data collection process is employed, emp
 
 
 
-<br>
-
-## 🕹️Download Game
-The game was built as an **.exe** file of <2GB. Download the game from [Download Here!](https://binusianorg-my.sharepoint.com/personal/muhamad_fajar_binus_ac_id/_layouts/15/guestaccess.aspx?share=EmZlw3ggUalAt92oG2KBYiABXBStEqtOK7-_jkvSRaUwZA&e=HLU1cs) (if the download link expires, please contact me). 
-
-<br>
-
-## ▶️ Video Gameplay
-https://youtu.be/UWn3G_PZ_fA
-
-
-<br>
 
 ## 👤Developer
-- Kelvin - Unity Programmer Main Mechanic
-- David Ang - Unity Programmer Game Mechanic 
+- Steven Putra Adicandra - Unity Programmer Level Mechanic Designer
+- Duns Scotus Aerotri T - Unity Programmer Level Graphic Designer
 - Muhamad Fajar - Unity Technical Artist
 - Thomas Galih Satria - Visual Designer
 - Galih Dea - Game Designer
